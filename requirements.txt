@@ -1,8 +1,7 @@
 streamlit
-selenium
 requests
+beautifulsoup4
+lxml
 gtts
-pydub
-flask
-schedule
-watchdog
+numpy
+pandas
